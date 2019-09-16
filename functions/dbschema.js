@@ -1,3 +1,4 @@
+// Structure
 let db = {
         screams: [
             {
